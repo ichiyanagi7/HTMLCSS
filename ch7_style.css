@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  color: gray;
+  padding: 20px;
+  height: 400px;
+  background-size: cover;
+  background-position: bottom;
+  background-image: url(chapter7_exercise/img/mv.jpg);
+}
+
+main {
+  width: 840px;
+  margin: 50px auto;
+}
+
+.box1 {
+  color: rgb(146, 146, 146);
+  padding-bottom: 30px;
+  border-bottom: 1px solid #ddd;
+}
+
+.box2 {
+  color: rgb(146, 146, 146);
+  padding: 30px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+a {
+  color: rgb(146, 146, 146);
+}
