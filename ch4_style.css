@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header1 {
+  background-color: red;
+  height: 50px;
+  width: 100%;
+}
+
+.header2 {
+  background-color: orange;
+  height: 500px;
+  width: 100%;
+}
+
+.main {
+  display: flex;
+  height: 1400px;
+  width: 960px;
+  margin: 0 auto;
+}
+
+.main-left {
+  background-color: lightgreen;
+  width: 230px;
+}
+
+.main-center {
+  background-color: green;
+  width: 500px;
+}
+
+.main-right {
+  background-color: lightgreen;
+  width: 230px;
+}
+
+.footer {
+  background-color: blue;
+  height: 100px;
+  width: 100%;
+}
